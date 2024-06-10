@@ -12,4 +12,5 @@ seaborn
 mpl_toolkits  
 sklearn  
 
-注：此为SDU-MachineLearning的期末大作业
+注：此为SDU-MachineLearning的期末大作业  
+From ZYQ
